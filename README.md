@@ -21,7 +21,11 @@
 <br>
 
 
-<p><img align="left" src="https://your-image-hosting-url.com/top-langs.png" alt="anii693 Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693 Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693 GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693 GitHub Streak" /></p>
 
 
 <br><br><br><br><br><br><br>
