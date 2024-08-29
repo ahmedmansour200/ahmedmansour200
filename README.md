@@ -32,9 +32,17 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-mansour-6517b4229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/ahmed-mansour-6517b4229" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mansour-linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:ahmedmansourmohamed99@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="ahmed-mansour-email" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/201008752736" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ahmed-mansour-whatsapp" height="30" width="40" />
+  </a>
 </p>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
