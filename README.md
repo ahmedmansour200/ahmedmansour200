@@ -59,7 +59,7 @@
 
 <br>
 <p align="left">
-  <img src="https://your-image-hosting-url.com/profile-view-static.png" alt="anii693 Profile Views" />
+  <img src="https://raw.githubusercontent.com/anii693/repository-name/main/profile-view-static.png" alt="anii693 Profile Views" />
 </p>
 
 
