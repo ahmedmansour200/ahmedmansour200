@@ -17,14 +17,12 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<p><img align="left" src="https://your-image-hosting-url.com/top-langs.png" alt="Top Languages" /></p>
-<p>&nbsp;<img align="left" src="https://your-image-hosting-url.com/github-stats.png" alt="GitHub Stats" /></p>
-<p><img align="left" src="https://your-image-hosting-url.com/streak-stats.png" alt="GitHub Streak Stats" /></p>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://your-image-hosting-url.com/top-langs.png" alt="anii693 Top Languages" /></p>
+
 
 <br><br><br><br><br><br><br>
 <hr width="60%" >
